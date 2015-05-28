@@ -1,5 +1,5 @@
 # GenerateAvroData
-Step 1: Create a schema for your data manually as shown below and save it as .avsc file "employee.asvc"
+Step 1: Create a schema for your data manually as shown below and save it as .avsc file "employee.avsc"
 
 { "type": "record",
   "name": "Employee_Record",
